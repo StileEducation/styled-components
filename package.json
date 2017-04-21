@@ -63,8 +63,7 @@
     "supports-color": "^3.1.2"
   },
   "devDependencies": {
-    "@types/react": "^0.14.55",
-    "@types/react-native": "^0.37.5",
+    "@types/react": "^15.0.22",
     "babel-cli": "^6.18.0",
     "babel-core": "^6.21.0",
     "babel-eslint": "^7.1.1",
